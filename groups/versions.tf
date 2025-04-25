@@ -1,3 +1,7 @@
+variable "okta_org_name" {}
+variable "okta_api_token" {}
+variable "okta_base_url" {}
+
 terraform {
   required_providers {
     okta = {
