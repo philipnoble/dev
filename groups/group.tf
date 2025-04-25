@@ -1,4 +1,4 @@
 resource "okta_group" "example" {
-  name        = "terraform2"
+  name        = "terraform0"
   description = "To manage terraform"
 }
